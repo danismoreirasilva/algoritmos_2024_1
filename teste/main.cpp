@@ -5,8 +5,8 @@ using namespace std;
 int main()
 {
 
-    //setlocale(LC_ALL, "");
+    setlocale(LC_ALL, "");
 
-    cout << "Olá, saúde!!!" << endl;
+    cout << "Olá, mundo!!!" << endl;
     return 0;
 }
